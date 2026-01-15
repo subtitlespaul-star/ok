@@ -101,7 +101,7 @@ jobs:
           Write-Host "🎯 RDP Session Information"
           Write-Host "Tailscale IP : $env:TAILSCALE_IP"
           Write-Host "Username     : RDP"
-          Write-Host "Password     : $en"
+          Write-Host "Password     : admin@1"
           Write-Host "====================================`n"
           Write-Host "⚡ Keep this runner open while using RDP ⚡"
           Write-Host "Use Ctrl+C in Actions log to stop manually."
